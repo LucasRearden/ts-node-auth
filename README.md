@@ -1,17 +1,24 @@
-# TS Node Auth API
+# 🚀 Fitness API — Node.js + TypeScript + Express + Prisma + PostgreSQL
 
-Proyecto de autenticación construido con **Node.js**, **TypeScript**, **Prisma** y **PostgreSQL**.  
-Se utiliza **Docker** para levantar la base de datos y Prisma para la gestión del esquema.
+Simple backend boilerplate for authentication and REST endpoints.
 
-## 🚀 Requisitos previos
+---
 
-- [Node.js](https://nodejs.org/) >= 18
-- [Docker](https://www.docker.com/) y [Docker Compose](https://docs.docker.com/compose/)
-- [Prisma CLI](https://www.prisma.io/docs/concepts/components/prisma-cli)
+## ✅ Requirements
+- Node.js 18+  
+- Docker + Docker Compose  
+- (Optional) Postman/Insomnia  
 
-## 📦 Instalación
+---
 
-1. **Clonar el repositorio**
-   ```bash
-   git clone <url-del-repo>
-   cd <nombre-del-proyecto>
+## 🔧 Setup (Quick Steps)
+
+1) npm i
+
+2)Create .env with data
+
+3) powershell: docker-compose up -d
+
+4) powershell: npx prisma migrate dev
+
+5) powershell: npm run dev
