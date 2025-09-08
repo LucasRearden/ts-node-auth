@@ -1,13 +1,6 @@
-# 🚀 Fitness API — Node.js + TypeScript + Express + Prisma + PostgreSQL
+# 🚀 Node.js + TypeScript + Prisma + PostgreSQL
 
-Simple backend boilerplate for authentication and REST endpoints.
-
----
-
-## ✅ Requirements
-- Node.js 18+  
-- Docker + Docker Compose  
-- (Optional) Postman/Insomnia  
+Backend project built with **Node.js**, **TypeScript**, **Express**, **Prisma** and **PostgreSQL**.
 
 ---
 
